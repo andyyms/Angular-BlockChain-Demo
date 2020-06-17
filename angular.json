@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "andyycoin"
+    }
+  },
+  "defaultProject": "andyycoin",
+  "cli": {
+    "analytics": false
+  }
 }
